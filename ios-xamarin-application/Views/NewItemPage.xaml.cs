@@ -2,7 +2,7 @@
 
 using Xamarin.Forms;
 
-namespace ios-xamarin-application
+namespace iosxamarinapplication
 {
 	public partial class NewItemPage : ContentPage
 {

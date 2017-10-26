@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Newtonsoft.Json;
 using Plugin.Connectivity;
 
-namespace ios-xamarin-application
+namespace iosxamarinapplication
 {
 	public class CloudDataStore : IDataStore<Item>
 {

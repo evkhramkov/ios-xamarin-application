@@ -5,7 +5,7 @@ using Android.App;
 // Information about this assembly is defined by the following attributes. 
 // Change them to the values specific to your project.
 
-[assembly: AssemblyTitle("ios-xamarin-application.Droid")]
+[assembly: AssemblyTitle("iosxamarinapplication.Droid")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]

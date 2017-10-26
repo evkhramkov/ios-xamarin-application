@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ios-xamarin-application
+namespace iosxamarinapplication
 {
 	public class ItemDetailViewModel : BaseViewModel
 {

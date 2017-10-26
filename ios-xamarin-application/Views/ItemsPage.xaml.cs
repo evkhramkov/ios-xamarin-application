@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 
 using Xamarin.Forms;
 
-namespace ios-xamarin-application
+namespace iosxamarinapplication
 {
 	public partial class ItemsPage : ContentPage
 {

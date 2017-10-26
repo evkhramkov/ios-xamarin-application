@@ -3,7 +3,7 @@ using System.Windows.Input;
 
 using Xamarin.Forms;
 
-namespace ios-xamarin-application
+namespace iosxamarinapplication
 {
 	public class AboutViewModel : BaseViewModel
 {

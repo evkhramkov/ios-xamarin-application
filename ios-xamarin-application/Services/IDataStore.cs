@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace ios-xamarin-application
+namespace iosxamarinapplication
 {
 	public interface IDataStore<T>
 {
