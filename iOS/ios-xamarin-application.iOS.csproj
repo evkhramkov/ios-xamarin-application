@@ -171,4 +171,7 @@
   <Import Project="..\ios-xamarin-application\ios-xamarin-application.projitems" Label="Shared" Condition="Exists('..\ios-xamarin-application\ios-xamarin-application.projitems')" />
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <Import Project="..\packages\Xamarin.Forms.2.4.0.280\build\netstandard1.0\Xamarin.Forms.targets" Condition="Exists('..\packages\Xamarin.Forms.2.4.0.280\build\netstandard1.0\Xamarin.Forms.targets')" />
+  <Target Name="BeforeBuild">
+    <Exec Command="/bin/sh ./Scripts/PreBuild.sh"/>
+  </Target>
 </Project>
