@@ -32,7 +32,7 @@
       <CustomCommands>
         <Command>
           <type>BeforeBuild</type>
-          <command>Scripts/PreBuild.sh</command>
+          <command>/bin/sh ./Scripts/PreBuild.sh</command>
         </Command>
       </CustomCommands>
     </CustomCommands>

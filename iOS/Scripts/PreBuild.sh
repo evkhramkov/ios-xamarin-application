@@ -1,1 +1,2 @@
-﻿printenv
+﻿#/bin/sh
+printenv
