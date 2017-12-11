@@ -1,1 +1,1 @@
-dotnet vstest
+dotnet vstest --help
