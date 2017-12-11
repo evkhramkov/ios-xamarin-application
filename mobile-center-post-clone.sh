@@ -1,6 +1,7 @@
 # clone VStest sources
 git clone https://github.com/Microsoft/vstest.git
 cd vstest
-sh build.sh
+powershell build.ps1
 
-vstest
+which vstest
+which mstest
