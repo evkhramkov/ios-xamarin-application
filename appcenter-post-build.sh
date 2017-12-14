@@ -1,0 +1,1 @@
+ls ./iOS/bin/iPhone/Release
