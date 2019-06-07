@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{E82D4468-4B89-42A0-817B-53E6046AA19B}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ios-xamarin-application" expanded="True">
+            <Node name="ios-xamarin-application" expanded="True" />
+            <Node name="ios-xamarin-application.iOS" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.ios-xamarin-application.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.86DB6D7F-F770-439B-890E-9D650E7BDBF8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

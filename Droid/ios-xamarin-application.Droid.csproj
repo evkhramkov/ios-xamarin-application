@@ -9,7 +9,7 @@
     <OutputType>Library</OutputType>
     <RootNamespace>iosxamarinapplication.Droid</RootNamespace>
     <AssemblyName>ios-xamarin-application.Droid</AssemblyName>
-    <TargetFrameworkVersion>v7.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v8.1</TargetFrameworkVersion>
     <AndroidApplication>True</AndroidApplication>
     <AndroidResgenFile>Resources\Resource.designer.cs</AndroidResgenFile>
     <AndroidResgenClass>Resource</AndroidResgenClass>
