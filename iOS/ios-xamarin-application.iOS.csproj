@@ -46,7 +46,7 @@
     <CustomCommands>
       <CustomCommands>
         <Command>
-          <type>BeforeBuild</type>
+          <type>BeforeClean</type>
           <command>sed -i '' '53d' ./packages/Xamarin.Firebase.iOS.Crashlytics.3.10.9/build/Xamarin.Firebase.iOS.Crashlytics.targets</command>
           <workingdir>${SolutionDir}</workingdir>
         </Command>
